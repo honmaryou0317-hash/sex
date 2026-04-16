@@ -1568,7 +1568,7 @@ local function vu586()
         end
         if v462 then
             if v457:FindFirstChild("Buddha") and vu44 then
-                vu43 = 1000
+                vu43 = 3500
             else
                 vu43 = 60
             end
