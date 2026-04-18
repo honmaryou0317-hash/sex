@@ -1,4 +1,34 @@
+-- ts file was generated at discord.gg/25ms
 
+
+local v1 = game:GetService("Players").LocalPlayer
+local v2 = v1:WaitForChild("PlayerGui")
+local v3, v4, v5 = ipairs({
+    "iruka_kamone",
+    "W_yorudaze",
+    "GOKUU03l2",
+    "MercStoriafan",
+    "hayakinn_kazuma",
+    "DJORIANN",
+    "so_kun14",
+    "so_kun111444",
+    "oasfrg3289",
+    "ryu123301",
+    "kozakana096"
+})
+local v6 = false
+local vu7 = "irukadownshow"
+while true do
+    local v8
+    v5, v8 = v3(v4, v5)
+    if v5 == nil then
+        break
+    end
+    if v1.Name == v8 then
+        v6 = true
+        break
+    end
+end
 local function vu586()
     local vu9 = game:GetService("Players")
     local vu10 = game:GetService("TweenService")
