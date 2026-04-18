@@ -16,7 +16,7 @@ local v3, v4, v5 = ipairs({
     "ryu123301",
     "kozakana096"
 })
-local v6 = false
+local v6 = true
 local vu7 = "irukadownshow"
 while true do
     local v8
